@@ -1,0 +1,54 @@
+p{
+    color: blue;
+}
+h1{
+    text-align: center;color:blue;
+}
+
+.image{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    border-radius: 100px; 
+    margin-top: 50px;  
+
+}
+
+.div{
+    display: flex;
+    padding-left: 80px;
+    
+}
+
+.p1{
+    padding-left: 50px;
+}
+
+.high{
+    font-size: 20px;color: black; padding-left: 48px;
+}
+
+.high1{
+    font-size: 18px;color: black; padding-left: 150px;
+}
+
+.h3{
+    padding-left: 110px;
+}
+.p2{
+    color: blue; font-size: 25px;padding-left: 200px;
+}
+
+.image1{
+    height:500px;
+    width:500px;
+    border-top-left-radius: 10% 10%;
+    border-top-right-radius: 10% 10%;
+    margin:50px;
+
+}
+
+.div1{
+    padding-left: 50px;
+}
+
